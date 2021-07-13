@@ -1,0 +1,15 @@
+{
+  "entities": [
+    {
+      "uen": "201610784K",
+      "name": "POLICYPAL PTE. LTD.",
+      "fyeDate": "2019-12-31",
+      "accType": "GROUP",
+      "groupCurrency": "SINGAPORE, DOLLARS",
+      "groupTotalCurrentAssets": 958270,
+      "groupTotalCurrentLiabilities": 244198,
+      "groupRetainedEarningsAccumulatedLoss": -345892,
+      "ebit": 1165011
+    }
+  ]
+}
